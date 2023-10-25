@@ -2523,6 +2523,15 @@ ul.feature-icons li:before {
 	width: 2.5em;
 }
 
+ul.feature-icons li:marker {
+    unicode-bidi: isolate;
+    font-variant-numeric: tabular-nums;
+    text-transform: none;
+    text-indent: 0px !important;
+    text-align: start !important;
+    text-align-last: start !important;
+}
+
 /* Icons */
 
 ul.icons {
