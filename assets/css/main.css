@@ -170,6 +170,8 @@ html {
 *:before,
 *:after {
 	box-sizing: inherit;
+	text-decoration: none;
+
 }
 
 body {
@@ -206,7 +208,7 @@ a {
 	-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 	transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 	border-bottom: solid 1px #e4e4e4;
-	color: inherit;
+	color: #4acaa8;
 	text-decoration: none;
 }
 
