@@ -587,6 +587,10 @@ pre code {
 	padding-top: 4em;
 }
 
+.tjustify{
+	text-align: justify;
+}
+
 @media screen and (max-width: 1680px) {
 
 	.row {
